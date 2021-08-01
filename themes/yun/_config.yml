@@ -567,8 +567,8 @@ aplayer:
     # id: 76244489 # vol white
     # id: 5135845906 # for Volantis 3.0
     id: 6768797227 # mybloglist
-  darkmodejs:
-    enable: true
+    darkmodejs:
+      enable: true
 
 # special
 mourn:
