@@ -356,7 +356,7 @@ reward:
   # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
   methods:
     - name: 支付宝
-      path: /https://s3.bmp.ovh/imgs/2021/08/c90593aa92525ff5.jpg
+      path: https://s3.bmp.ovh/imgs/2021/08/c90593aa92525ff5.jpg
       color: "#00A3EE"
       icon: icon-alipay-line
     - name: QQ 支付
