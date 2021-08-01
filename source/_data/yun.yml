@@ -25,6 +25,3 @@ github_discussions:
 
 cursor:
   enable: true
-
-wordcount:
-  enable: true
