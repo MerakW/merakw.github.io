@@ -95,7 +95,7 @@ codeblock:
 # Extra links
 pages:
   - name: 友链
-    url: /friends/
+    url: /friends
     icon: icon-genderless-line
     color: dodgerblue
 
@@ -398,7 +398,7 @@ post_edit:
 # Footer Settings
 # ---------------
 footer:
-  since: 2019
+  since: 2021
 
   # Icon between year and copyright info.
   icon:
@@ -543,11 +543,11 @@ google_tagmanager:
 # Show number of visitors of each article.
 # You can visit https://www.leancloud.cn to get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: # <your app id>
-  app_key: # <your app key>
+  enable: true
+  app_id: J8Qr9yTBqnfszkUg5udw5ft5-MdYXbMMI
+  app_key: Xydedu4joPFhOqOoCbutSKLg
   # Required for apps from CN region
-  server_url: # <your server url>
+  #server_url: 
 
 # That is it only render those page which has `katex: true` in Front-matter.
 # math fomula
@@ -558,31 +558,17 @@ katex:
 
 # plugins
 aplayer:
-  global: false
-  meting: true
-  # https://github.com/metowolf/MetingJS/tree/v1.2#option
-  widget:
-    enable: false
+    enable: true
     autoplay: false
-    # theme: "#2980b9"
-    loop: all
-    order: list
-    preload: auto
-    volume: 0.7
-    mutex: true
-    lrcType: 0
-    listFolded: false
-    listMaxHeight: 340px
-    audio:
-      - name: 星宿计时
-        artist: 杉田朗/洛天依
-        url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/audio/star-timer.mp3
-        cover: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0.jpg
-    meting:
-      enable: true
-      id: 308168565
-      server: netease
-      type: playlist
+    volume: 0.4
+    order: random
+    # id: 4917530132 # vol red
+    # id: 4917524698 # vol blue
+    # id: 76244489 # vol white
+    # id: 5135845906 # for Volantis 3.0
+    id: 6768797227 # mybloglist
+  darkmodejs:
+    enable: true
 
 # special
 mourn:

@@ -17,30 +17,20 @@ github_issues:
 github_discussions:
   enable: false
   
-pages:
- - name: 友链
-    url: /friends
-    icon: icon-genderless-line
-    color: dodgerblue
+#pages:
+ - #name: 友链
+    #url: /friends
+    #icon: icon-genderless-line
+    #color: dodgerblue
 
 cursor:
   enable: true
 
-aplayer:
-    enable: true
-    autoplay: false
-    volume: 0.4
-    order: random
-    # id: 4917530132 # vol red
-    # id: 4917524698 # vol blue
-    # id: 76244489 # vol white
-    # id: 5135845906 # for Volantis 3.0
-    id: 6768797227 # mybloglist
 
 valine:
   enable: true
-  appId: G3S4YIhKewaS240kAl92r5vE-gzGzoHsz
-  appKey: RAvnImey2bpnat44AMhdmXmh
+  appId: J8Qr9yTBqnfszkUg5udw5ft5-MdYXbMMI
+  appKey: Xydedu4joPFhOqOoCbutSKLg
   placeholder: Just go go # comment box placeholder
   avatar: # gravatar style
   meta:
