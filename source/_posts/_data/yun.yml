@@ -1,0 +1,30 @@
+mode: auto
+
+avatar:
+  url: /images/avatar.png
+  status:
+    enable: true
+    emoji: 🙃
+    message: 无限进步
+
+reward:
+  enable: true
+  comment: 我很可爱，请给我钱
+
+github_issues:
+  enable: false
+
+github_discussions:
+  enable: false
+  
+pages:
+ - name: 友链
+    url: /links/
+    icon: icon-genderless-line
+    color: dodgerblue
+
+cursor:
+  enable: true
+
+wordcount:
+  enable: true
