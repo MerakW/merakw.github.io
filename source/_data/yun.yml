@@ -17,11 +17,11 @@ github_issues:
 github_discussions:
   enable: false
   
-#pages:
- #- name: 友链
-    #url: /friends
-    #icon: icon-genderless-line
-    #color: dodgerblue
+pages:
+ - name: 友链
+    url: /friends
+    icon: icon-genderless-line
+    color: dodgerblue
 
 cursor:
   enable: true
@@ -38,7 +38,7 @@ aplayer:
     id: 6768797227 # mybloglist
 
 valine:
-  enable: false
+  enable: true
   appId: G3S4YIhKewaS240kAl92r5vE-gzGzoHsz
   appKey: RAvnImey2bpnat44AMhdmXmh
   placeholder: Just go go # comment box placeholder
