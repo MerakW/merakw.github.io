@@ -16,16 +16,9 @@ github_issues:
 
 github_discussions:
   enable: false
-  
-#pages:
- - #name: 友链
-    #url: /friends
-    #icon: icon-genderless-line
-    #color: dodgerblue
 
 cursor:
   enable: true
-
 
 valine:
   enable: true
