@@ -95,7 +95,7 @@ codeblock:
 # Extra links
 pages:
   - name: 友链
-    url: /friends
+    url: /links
     icon: icon-genderless-line
     color: dodgerblue
 
