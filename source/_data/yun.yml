@@ -45,3 +45,6 @@ valine:
   # requiredFields:
   #   - nick
   #   - mail
+
+wordcloud:
+  enable: true

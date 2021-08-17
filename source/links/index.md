@@ -32,6 +32,7 @@ links:
     desc: 这个家伙很懒,什么都没有留下
     color: "#39c5bb"
     email: me@biduang.cn
+    
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
