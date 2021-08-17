@@ -32,3 +32,5 @@ And我还是网易云音乐人哦，不过是用库乐队随便敲敲拔了（�
 个人的主要精力还是放在了视频制作上，所以我发视频肯定会比写博客勤一点（？
 
 我的视频更新平台包括但不限于[**B站**](https://b23.tv/h0yQ0i)，**微信视频号**等。
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MerakW&show_icons=true&icon_color=0078e7&title_color=0078e7">
