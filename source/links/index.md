@@ -26,15 +26,7 @@ links:
     desc: 这个家伙很懒,什么都没有留下
     color: "#FF1493"
   - url: https://blog.biduang.cn
-<<<<<<< HEAD
-<<<<<<< HEAD
     avatar: https://z3.ax1x.com/2021/08/18/foogoj.jpg
-=======
-    avatar: https://blog.biduang.cn/-1d6c4e2be2fa0a6b.jpg
->>>>>>> 8f8505058b197edcedd7ff0969ed32f6e5c757c2
-=======
-    avatar: https://en.gravatar.com/userimage/205345613/6d9389c13d7c391c8ec5d38b28ce0374.jpg
->>>>>>> parent of 8f85050 (...?)
     name: BiDuang
     blog: 冰屋小站
     desc: 这个家伙很懒,什么都没有留下
