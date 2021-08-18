@@ -19,7 +19,7 @@ links:
     desc: 腐竹｜是我自己的小服awa
     color: "#3CB371"
   - url: https://www.fetarute.org/wiki
-    avatar: 
+    avatar: https://www.fetarute.org/fesimgic/images/2021/08/18/IMG_1643.jpg
     name: Fetarute
     blog: Fetarute｜二周目
     desc: 成员
