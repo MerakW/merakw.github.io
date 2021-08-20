@@ -17,19 +17,19 @@ links:
     avatar: https://i.loli.net/2021/08/17/nwciIq9aGX5zmkD.jpg
     name: Tufmoc
     blog: 绿猫小站
-    desc: 这个家伙很懒,什么都没有留下
+    desc: 孤寡孤寡！
     color: "#0078e7"
   - url: https://www.irain.cc
     avatar: https://z3.ax1x.com/2021/08/17/f5vDAO.jpg
     name: 郁辰
     blog: AsakiRain的小站
-    desc: 这个家伙很懒,什么都没有留下
+    desc: 博主很懒，随缘更新
     color: "#FF1493"
   - url: https://blog.biduang.cn
     avatar: https://z3.ax1x.com/2021/08/18/foogoj.jpg
     name: BiDuang
     blog: 冰屋小站
-    desc: 这个家伙很懒,什么都没有留下
+    desc: 喔，我不知道。
     color: "#39c5bb"
     email: me@biduang.cn
     
