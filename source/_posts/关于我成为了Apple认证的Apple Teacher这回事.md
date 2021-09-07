@@ -48,6 +48,6 @@ tags:
 
     功夫不负有心人，我成功的得到了来自Apple官方的 Apple Teacher 认证。
 
-[需要补充图片]()
+[![ho4R2Q.png](https://z3.ax1x.com/2021/09/07/ho4R2Q.png)](https://imgtu.com/i/ho4R2Q)
 
 之后有空的话也许还会去做一下 **Mac** 系列以及附加 **Swift** 系列的题目，获得全勋章。

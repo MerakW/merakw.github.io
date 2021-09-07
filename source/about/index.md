@@ -9,6 +9,20 @@ sidebar: []
 
 米拉克，十六岁，浙江杭州人。
 
+<div class="text-center">
+  <div class="site-author-avatar">
+    <img src="https://z3.ax1x.com/2021/08/16/fRWDk4.jpg" alt="portrait" title="ID : 云游君">
+  </div>
+</div>
+
+***
+
+<div align=center>
+<img src="https://z3.ax1x.com/2021/09/07/ho5OFf.png" width="" height="" />
+</div>
+
+***
+
 网名是 **米拉克**，或许你会见到**Merak_W**，**Merak**，**real_MerakW**这些名字，但都是我哦！
 
 只会一点点**Python**。最喜欢玩的游戏是 [**Minecraft**](https://minecraft.net/)，其次是 [**Fall Guys**]( https://www.mediatonicgames.com/game/fall-guys)。
