@@ -103,5 +103,5 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:MerakW/merakw.github.io.git
+  repo: root@github.com:MerakW/merakw.github.io.git
   branch: master
