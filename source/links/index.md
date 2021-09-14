@@ -13,7 +13,7 @@ links:
     desc: 这个家伙很懒,什么都没有留下
     color: "#7EC8B8" # 代表色
     email: # 非必须
-  - url: http://lmxiaozhan.qaqxx.cn
+  - url: https://tufxz.top
     avatar: https://i.loli.net/2021/08/17/nwciIq9aGX5zmkD.jpg
     name: Tufmoc
     blog: 绿猫小站
