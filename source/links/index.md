@@ -32,6 +32,13 @@ links:
     desc: 喔，我不知道。
     color: "#39c5bb"
     email: me@biduang.cn
+  - url: https://blog.biduang.cn
+    avatar: https://s1.ax1x.com/2022/05/21/OvsthR.png
+    name: Saneko 春见救猫小队
+    blog: Saneko 春见救猫小队
+    desc: 喵～
+    color: "#ffa631"
+    email: feed@sanekocats.cn
     
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
