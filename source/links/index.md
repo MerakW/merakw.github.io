@@ -35,7 +35,7 @@ links:
   - url: https://blog.biduang.cn
     avatar: https://s1.ax1x.com/2022/05/21/OvsthR.png
     name: Saneko 春见救猫小队
-    blog: Saneko 春见救猫小队
+    blog: Saneko 春见小窝
     desc: 喵～
     color: "#ffa631"
     email: feed@sanekocats.cn
