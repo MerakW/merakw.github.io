@@ -32,7 +32,7 @@ links:
     desc: 喔，我不知道。
     color: "#39c5bb"
     email: me@biduang.cn
-  - url: https://blog.biduang.cn
+  - url: https://blog.sanekocats.cn
     avatar: https://s1.ax1x.com/2022/05/21/OvsthR.png
     name: Saneko 春见救猫小队
     blog: Saneko 春见小窝
