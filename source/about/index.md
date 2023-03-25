@@ -7,40 +7,25 @@ sidebar: []
 ---
 # 这里是米拉克！很高兴见到你！👋
 
-米拉克，十六岁，浙江杭州人。
-
-<div class="text-center">
-  <div class="site-author-avatar">
-    <img src="https://z3.ax1x.com/2021/08/16/fRWDk4.jpg" alt="portrait" title="ID : 米拉克">
-  </div>
-</div>
-
-
-
+米拉克，十八岁，浙江杭州人，是个福瑞（
 
 网名是 **米拉克**，或许你会见到**Merak_W**，**Merak**，**real_MerakW**这些名字，但都是我哦！
 
 只会一点点**Python**。最近在学Swift
 
-最喜欢玩的游戏是 [**Minecraft**](https://minecraft.net/)，其次是 **原神**（我是原批）。
+最喜欢玩的游戏是 [**Minecraft**](https://minecraft.net/)
 
 我的**Minecraft** ID是Merak_W(国际服)
+
+最近也有在打CS:GO，不过很菜就是了（笑
+
+Steam好友代码：**416990944**
 
 Bilibili UP主，粉丝很少所以快来关注我/doge
 
 [**B站空间**](https://b23.tv/h0yQ0i)。
 
-Apple Music+网易云音乐双订阅，主推**欧美**+**电音**！
-
-And我还是网易云音乐人哦，不过是用库乐队随便敲敲拔了（笑）。
-
-忠实**果粉**+**米粉**，日常使用苹果生态。（小米主要是智能家居啦，但是手机也是有的，是一台~~没娘的~~K30 ULTRA）
-
-然后是也是一名经过Apple认证的Apple Teacher
-
-<div style="align: center">
-<img src=""/>
-</div>
+忠实**果粉**+**米粉**，日常使用苹果生态。（小米主要是智能家居啦）
 
 ## 关于更新
 
@@ -48,4 +33,6 @@ And我还是网易云音乐人哦，不过是用库乐队随便敲敲拔了（�
 
 我的视频更新平台包括但不限于[**B站**](https://b23.tv/h0yQ0i)，**微信视频号**等。
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MerakW&show_icons=true&icon_color=0078e7&title_color=0078e7">
+
+
+###### 留下一个神秘代码 204815556

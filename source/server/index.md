@@ -12,12 +12,12 @@ links:
     blog: 朋友船
     desc: 船员｜是我很早就加入的一个服务器
     color: "#E7AAA5" 
-  - url: http://eco.merakt.cn
-    avatar: https://z3.ax1x.com/2021/07/07/R7cqAO.png
-    name: 🍀EcoCraft
-    blog: 🍀EcoCraft｜二周目
-    desc: 腐竹｜是我自己的小服awa
-    color: "#3CB371"
+  #- url: http://eco.merakt.cn
+  #  avatar: https://z3.ax1x.com/2021/07/07/R7cqAO.png
+  #  name: 🍀EcoCraft
+  #  blog: 🍀EcoCraft｜二周目
+  #  desc: 腐竹｜是我自己的小服awa
+  #  color: "#3CB371"
   - url: https://www.fetarute.org/wiki
     avatar: https://www.fetarute.org/fesimgic/images/2021/08/18/IMG_1643.jpg
     name: Fetarute

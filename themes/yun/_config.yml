@@ -422,8 +422,8 @@ footer:
   # Beian icp information for Chinese users. In China, every legal website should have a beian icp in website footer.
   # https://beian.miit.gov.cn/
   beian:
-    enable: false
-    # icp: 苏ICP备xxxxxxxx号
+    enable: true
+    icp: 浙ICP备2023006729号
 
   live_time:
     enable: false

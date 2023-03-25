@@ -19,7 +19,7 @@ links:
     blog: 绿猫小站
     desc: 孤寡孤寡！
     color: "#0078e7"
-  - url: https://www.irain.cc
+  - url: https://blog.irain.cc
     avatar: https://z3.ax1x.com/2021/08/17/f5vDAO.jpg
     name: 郁辰
     blog: AsakiRain的小站

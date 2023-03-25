@@ -3,7 +3,7 @@ layout: links
 title: 我的小伙伴们
 date: 2019-06-21 13:06:06
 keywords: 链接
-description: 云游的小伙伴们
+description: 我的的小伙伴们
 comments: true
 links:
  - url: http://lmxiaozhan.qaqxx.cn
@@ -27,6 +27,13 @@ links:
     desc: 这个家伙很懒,什么都没有留下
     color: "#1E90FF"
     email: asak@irain.cc
+
+  - url: https://biduang.cn
+    avartar: https://gravatar.loli.net/avatar/5273a4d195a45fd8b900545f63a94f58?s=200&r=G
+    name: 冰屋小站
+    desc: 这个家伙很懒,什么都没有留下
+    color: "#55CDC5"
+    email: me@biduang.cn
 
 placeholder: 这些都是我的好朋友们 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
